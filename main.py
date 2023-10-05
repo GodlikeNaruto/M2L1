@@ -113,4 +113,4 @@ async def mem(ctx):
 @bot.command()
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
-bot.run("MTE1MjYwMDQzMDEyNDIxMjI0NA.GdesPD._IPnaNfK6MAC4AbyIjyEfhHrAHSAzYFKybODGU")
+bot.run("")
